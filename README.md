@@ -16,6 +16,19 @@
    - Manipulação de cabeçalhos e status de resposta.
   
 4. NPM (Node Package Manager)
+   - O que é o NPM e como usá-lo.
+   - Instalação e gerenciamento de pacotes.,
+   - Criação de pacotes próprios.
+   - Scripts no package.json.
+
+5. Express.js
+   - Introdução ao Express.js (framework para criar servidores).
+   - Rotas (routes) e middlewares.
+   - Trabalhando com parâmetros e queries.
+   - Lidando com requisições e respostas.
+   - Implementação de APIs RESTful.
+
+
 
 
 
