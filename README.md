@@ -27,6 +27,12 @@
    - Trabalhando com parâmetros e queries.
    - Lidando com requisições e respostas.
    - Implementação de APIs RESTful.
+  
+6. Banco de Dados com Node.js
+   - Conexão com bancos de dados:
+     * Relacionais (MySQL, PostgreSQL).
+     * Não-relacionais (MongoDB com Mongoose).
+
 
 
 
