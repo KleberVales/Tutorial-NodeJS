@@ -11,6 +11,10 @@
    - Eventos e manipulação de buffers.
   
 3. Trabalhando com Servidores HTTP
+   - Criando um servidor básico com o módulo http.
+   - Entendendo os métodos HTTP (GET, POST, PUT, DELETE).
+   - Manipulação de cabeçalhos e status de resposta.
+
 
 
 
