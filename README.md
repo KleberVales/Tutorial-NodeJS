@@ -8,5 +8,6 @@
 2. Manipulação de Arquivos e Streams
    - Ler e gravar arquivos usando o módulo fs.
    - Streams de leitura e escrita.
+   - Eventos e manipulação de buffers.
 
 
