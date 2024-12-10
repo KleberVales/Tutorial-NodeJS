@@ -6,4 +6,6 @@
    - Criando módulos próprios.
   
 2. Manipulação de Arquivos e Streams
+   - Ler e gravar arquivos usando o módulo fs.
+
 
