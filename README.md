@@ -23,23 +23,24 @@
    - Criação de pacotes próprios.
    - Scripts no package.json.
 
-7. Express.js
+7. Express.js\
+   O Express.js é usado para uma grande variedade de coisas no ecossistema JavaScript/Node.js – você pode desenvolver aplicativos, endpoints API, sistemas de roteamento e frameworks com ele.
    - Introdução ao Express.js (framework para criar servidores).
    - Rotas (routes) e middlewares.
    - Trabalhando com parâmetros e queries.
    - Lidando com requisições e respostas.
    - Implementação de APIs RESTful.
   
-8. Banco de Dados com Node.js
+9. Banco de Dados com Node.js
    - Conexão com bancos de dados:
      * Relacionais (MySQL, PostgreSQL).
      * Não-relacionais (MongoDB com Mongoose).
     
-9. WebSockets e Tempo Real
+10. WebSockets e Tempo Real
    - Trabalhando com WebSockets (Socket.IO).
    - Criando comunicação bidirecional entre cliente e servidor.
   
-10. Trabalhando com APIs de Terceiros
+11. Trabalhando com APIs de Terceiros
    - Consumindo APIs REST usando axios ou fetch.
    - Manipulando dados recebidos de APIs externas.
   
