@@ -40,6 +40,14 @@
 8. Trabalhando com APIs de Terceiros
    - Consumindo APIs REST usando axios ou fetch.
    - Manipulando dados recebidos de APIs externas.
+  
+9. Gerenciamento de Tarefas Assíncronas
+    - Promises e async/await no contexto do Node.js.
+    - Trabalhando com bibliotecas como async e bull para filas.
+  
+10. Deploy e Ambientes
+    - Configurando o ambiente de produção.
+    - Deploy em plataformas como Heroku, AWS, ou Vercel.
 
 
 
