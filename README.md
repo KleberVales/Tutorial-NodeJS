@@ -48,6 +48,7 @@
 10. Deploy e Ambientes
     - Configurando o ambiente de produção.
     - Deploy em plataformas como Heroku, AWS, ou Vercel.
+    - Variáveis de ambiente (dotenv).
 
 
 
