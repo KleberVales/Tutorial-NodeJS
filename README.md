@@ -49,6 +49,12 @@
     - Configurando o ambiente de produção.
     - Deploy em plataformas como Heroku, AWS, ou Vercel.
     - Variáveis de ambiente (dotenv).
+   
+11. Testes no Node.js
+    - Escrevendo testes unitários com Jest ou Mocha.
+    - Testes de integração para APIs.
+
+
 
 
 
