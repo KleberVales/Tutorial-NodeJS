@@ -32,6 +32,10 @@
    - Conexão com bancos de dados:
      * Relacionais (MySQL, PostgreSQL).
      * Não-relacionais (MongoDB com Mongoose).
+    
+7. WebSockets e Tempo Real
+   - Trabalhando com WebSockets (Socket.IO).
+   - Criando comunicação bidirecional entre cliente e servidor.
 
 
 
