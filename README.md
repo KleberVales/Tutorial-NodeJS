@@ -36,6 +36,11 @@
 7. WebSockets e Tempo Real
    - Trabalhando com WebSockets (Socket.IO).
    - Criando comunicação bidirecional entre cliente e servidor.
+  
+8. Trabalhando com APIs de Terceiros
+   - Consumindo APIs REST usando axios ou fetch.
+   - Manipulando dados recebidos de APIs externas.
+
 
 
 
