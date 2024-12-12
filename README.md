@@ -12,6 +12,9 @@
   
 3. Trabalhando com Servidores HTTP\
    A forma mais comum de comunicação entre frontend e backend é através de requisições HTTP. O frontend envia uma requisição para o backend, que processa a solicitação e retorna uma resposta. Essas requisições podem ser do tipo GET, POST, PUT, DELETE, entre outras, e podem conter dados no corpo da requisição.
+
+   Formas de enviar dados na requisição: Query Params(GET), Route Params(GET / PUT / DELETE), Body Params (POST e PUT)
+   
    - Criando um servidor básico com o módulo http.
    - Entendendo os métodos HTTP (GET, POST, PUT, DELETE).
    - Manipulação de cabeçalhos e status de resposta.
